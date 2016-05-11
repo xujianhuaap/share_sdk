@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="ssdk_qzone">QQ空间</string>
+    <string name="ssdk_wechat">微信好友</string>
+    <string name="ssdk_wechatmoments">微信朋友圈</string>
+    <string name="ssdk_qq">QQ</string>
+    <string name="ssdk_shortmessage">信息</string>
+    <string name="ssdk_wechatfavorite">微信收藏</string>
+    <string name="ssdk_stickboard">"剪贴板"</string>
+
+</resources>
